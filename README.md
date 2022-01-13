@@ -1,4 +1,4 @@
-### Olá, eu sou a Áurea Simões desenvolvo projetos de robótica e sou apaixonada por matemática e tecnologia.
+
 
 <div align="center">
   <a href="https://github.com/aureasimoes">
