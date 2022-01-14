@@ -10,7 +10,6 @@
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img align="right" alt="Aurea-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/862177383603634176/895455291662028850/931347815999893534">
 </div>
   
  ##
