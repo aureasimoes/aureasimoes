@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aureasimoes&layout=compact&langs_count=7&theme=radical"/>
 
 </div>
-<img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="center"  height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
